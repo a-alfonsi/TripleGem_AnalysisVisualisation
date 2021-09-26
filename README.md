@@ -2,14 +2,10 @@
 
 Framework that reads, processes and plots the oscilloscope data collected in the testing of a Triple-GEM detector prototype.
 The original data are not shared here, but the final plots can be seen in the _[official report](https://www.lnf.infn.it/sis/preprint/detail-new.php?id=5396)_.
-Macros are made to be run through ROOT CERN, simply doing `root -l macro.cxx`.
-
 &nbsp;
 
 ## :triangular_flag_on_post: List of scripts
-Instead of using `pdflatex`, run using the `pytex` command.  
-For a generic .tex file:
-
+Macros are made to be run through ROOT CERN, simply doing `root -l macro.cxx`:
 
 * __Baseline.C__
 Reads list of measurements from different files and calculates the average baseline
