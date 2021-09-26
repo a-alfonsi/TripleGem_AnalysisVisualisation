@@ -1,7 +1,8 @@
 # Triple GEM Analysis and Visualisation package
 
 Framework that reads, processes and plots the oscilloscope data collected in the testing of a Triple-GEM detector prototype.
-The original data are not shared here, but the final plots can be seen in the _[official report](https://www.lnf.infn.it/sis/preprint/detail-new.php?id=5396)_
+The original data are not shared here, but the final plots can be seen in the _[official report](https://www.lnf.infn.it/sis/preprint/detail-new.php?id=5396)_.
+Macros are made to be run through ROOT CERN, simply doing `root -l macro.cxx`.
 
 &nbsp;
 
